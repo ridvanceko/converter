@@ -7,3 +7,17 @@ body {
 .display-4 {
   color: white;
 }
+.card-primary {
+  background-color: rgb(158, 158, 255);
+}
+
+.card-success {
+  background-color: rgb(114, 250, 114);
+}
+.card-danger {
+  background-color: red;
+}
+h4{
+  color: rgb(255, 255, 255);
+}
+ 
